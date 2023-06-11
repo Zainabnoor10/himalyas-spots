@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007955274008",
+    "project_id": "himalayas-sports",
+    "storage_bucket": "himalayas-sports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007955274008:android:04fe0299b3781ec6da966d",
+        "android_client_info": {
+          "package_name": "com.example.himalayas_spots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007955274008-hstug080pukost1rl9octmcffh0c1hpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZCyE4ETXKc4Q-a3p7XjaernxAiOds5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007955274008-hstug080pukost1rl9octmcffh0c1hpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
